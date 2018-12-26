@@ -1,0 +1,281 @@
+[
+    {
+        "ownerName": "Rudras",
+        "gameName": "badminton Men",
+        "date": "2018-12-20T18:25:43.511Z",
+        "result": "N/A",
+        "Team": {
+            "Team 1": [
+                "Manoj",
+                "Venkat"
+            ],
+            "Team 2": [
+                "Srikanth",
+                "Kiran"
+            ]
+        }
+    },
+    {
+        "ownerName": "Rudras",
+        "gameName": "badminton Men",
+        "date": "2018-12-20T18:25:43.511Z",
+        "result": "N/A",
+        "Team": {
+            "Team 3": [
+                "Naga",
+                "Pandu"
+            ],
+            "Team 4": [
+                "Nikunj",
+                "Sumit Anand"
+            ]
+        }
+    },
+    {
+        "ownerName": "Rudras",
+        "gameName": "badminton Men",
+        "date": "2018-12-20T18:25:43.511Z",
+        "result": "N/A",
+        "Team": {
+            "Team 5": [
+                "Srikanth",
+                "Sreevatsava"
+            ],
+            "Team 6": [
+                "Ashok",
+                "Manideep"
+            ]
+        }
+    },
+    {
+        "ownerName": "Rudras",
+        "gameName": "badminton Men",
+        "date": "2018-12-20T18:25:43.511Z",
+        "result": "N/A",
+        "Team": {
+            "Team 7": [
+                "Thrinath",
+                "Chitranjan"
+            ],
+            "Team 8": [
+                "Jagannadharao",
+                "Srikar"
+            ]
+        }
+    },
+    {
+        "ownerName": "Rudras",
+        "gameName": "Badminton Women",
+        "date": "2018-12-20T18:25:43.511Z",
+        "result": "N/A",
+        "Team": {
+            "Team 1": [
+                "Sneha",
+                "Lakshmi"
+            ],
+            "Team 2": [
+                "Mangla",
+                "Pragya"
+            ]
+        }
+    },
+    {
+        "ownerName": "Rudras",
+        "gameName": "Badminton Women",
+        "date": "2018-12-20T18:25:43.511Z",
+        "result": "N/A",
+        "Team": {
+            "Team 3": [
+                "Neha",
+                "Swetha"
+            ],
+            "Team 4": [
+                "Sameera",
+                "Pooja"
+            ]
+        }
+    },
+    {
+        "ownerName": "Rudras",
+        "gameName": "Badminton Women",
+        "date": "2018-12-20T18:25:43.511Z",
+        "result": "N/A",
+        "Team": {
+            "Team 5": [
+                "Mounika",
+                "Preethi"
+            ],
+            "Team 6": [
+                "Anusha",
+                "Anuradha"
+            ]
+        }
+    },
+    {
+        "ownerName": "Rudras",
+        "gameName": "Badminton Women",
+        "date": "2018-12-20T18:25:43.511Z",
+        "result": "N/A",
+        "Team": {
+            "Team 7": [
+                "Ramya",
+                "Lakshmi"
+            ],
+            "Team 8": [
+                "Mounika",
+                "Anusha"
+            ]
+        }
+    },
+    {
+        "ownerName": "Rudras",
+        "gameName": "VollyBall",
+        "date": "2018-12-20T18:25:43.511Z",
+        "result": "N/A",
+        "Team": {
+            "Yodha 2": [
+                "N/A"
+            ],
+            "WarHawks 2": [
+                "N/A"
+            ]
+        }
+    },
+    {
+        "ownerName": "Rudras",
+        "gameName": "VollyBall",
+        "date": "2018-12-20T18:25:43.511Z",
+        "result": "N/A",
+        "Team": {
+            "Yodha 1": [
+                "N/A"
+            ],
+            "WarHawks 1": [
+                "N/A"
+            ]
+        }
+    },
+    {
+        "ownerName": "Rudras",
+        "gameName": "VollyBall",
+        "date": "2018-12-20T18:25:43.511Z",
+        "result": "N/A",
+        "Team": {
+            "Rudra 1": [
+                "N/A"
+            ],
+            "Jaguars 1": [
+                "N/A"
+            ]
+        }
+    },
+    {
+        "ownerName": "Rudras",
+        "gameName": "VollyBall",
+        "date": "2018-12-20T18:25:43.511Z",
+        "result": "N/A",
+        "Team": {
+            "Rudra 2": [
+                "N/A"
+            ],
+            "Jaguars 2": [
+                "N/A"
+            ]
+        }
+    },
+    {
+        "ownerName": "Rudras",
+        "gameName": "Tugofwar",
+        "date": "N/A",
+        "result": "N/A",
+        "Team": {
+            "Team 1": [
+                "N/A"
+            ],
+            "Team 2": [
+                "N/A"
+            ]
+        }
+    },
+    {
+        "ownerName": "Jaguars",
+        "gameName": "Quiz",
+        "date": "2018-12-26T18:25:43.511Z",
+        "result": "N/A",
+        "Team": {
+            "All Teams": [
+                "All Teams"
+            ]
+        }
+    },
+    {
+        "ownerName": "Jaguars",
+        "gameName": "Quiz",
+        "date": "2018-12-27T18:25:43.511Z",
+        "result": "N/A",
+        "Team": {
+            "All Teams": [
+                "Final Round for qualified teams"
+            ]
+        }
+        
+    },
+    {
+        "ownerName": "Jaguars",
+        "gameName": "Skit",
+        "date": "2019-01-09T18:25:43.511Z",
+        "result": "N/A",
+        "Team": {
+            "All Teams": [
+                "N/A"
+            ]
+        }
+    },
+    {
+        "ownerName": "Jaguars",
+        "gameName": "Skit",
+        "date": "2019-01-09T18:25:43.511Z",
+        "result": "N/A",
+        "Team": {
+            "Top 3 teams on Stage": [
+                "N/A"
+            ]
+        }
+    },
+    {
+        "ownerName": "Jaguars",
+        "gameName": "Dance Solo",
+        "date": "2019-01-07T18:25:43.511Z",
+        "result": "N/A",
+        "Team": {
+            "All Teams": [
+                "N/A"
+            ]
+        }
+    },
+    {
+        "ownerName": "Jaguars",
+        "gameName": "Dance Group",
+        "date": "2019-01-08T18:25:43.511Z",
+        "result": "N/A",
+        "Team": {
+            "All Teams": [
+                "N/A"
+            ]
+        }
+    },
+    {
+        "ownerName": "Jaguars",
+        "gameName": "Basketball",
+        "date": "N/A",
+        "result": "N/A",
+        "Team": {
+            "Team 1": [
+                "N/A"
+            ],
+            "Team2": [
+                "N/A"
+            ]
+        }
+    }
+]
